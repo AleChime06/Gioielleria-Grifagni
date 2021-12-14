@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+ 
+body {
+
+    font-family:Montserrat,swap;
+}
+ 
+ 
+.blu {
+
+    background-color: #4971ff;
+    color:white;
+}
+ 
+#fascetta {
+
+    height: 35px;
+    padding: 5px;
+    padding-right: 100px;
+
+    word-spacing: 17px;
+}
+
+#fascetta a{
+
+    color: white;
+    text-decoration:none;
+}
+
+#fascetta a:hover{
+
+    color: #833471;
+    
+}
+
+#navbar-bianca {
+
+    height: 91px;
+
+    word-spacing: 20px;
+}
+
+.logo {
+
+    position: absolute;
+    width: 172px;
+    height: 75px;
+    left: 171px;
+    top: 40px;
+}
+
+#navbar-bianca a {
+
+    color: #ff5c00;
+    text-decoration: none;
+    font-size: 1.2rem;
+
+}
+
+#navbar-bianca a:hover {
+
+    color: #833471;
+}
+ 
+#carousel {
+
+    height: 367px;
+}
+
+.elemento-carousel {
+
+    height: 300px;
+}
+ 
+#tre-card {
+
+    min-height: 600px;
+}
+ 
+#testo {
+
+    min-height: 367px;
+}
